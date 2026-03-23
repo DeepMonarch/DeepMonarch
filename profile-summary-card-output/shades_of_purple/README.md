@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/DeepMonarch/DeepMonarch/master/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
-```
-
-    
